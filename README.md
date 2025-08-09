@@ -54,12 +54,12 @@ The game offers 11 different types of hints:
 
 ## Project Structure 📁
 
-├── main.py           # Entry point
-├── game_logic.py     # Core game functions
-├── scoring.py        # Score calculation system
-├── hints.py          # Hint system and math helpers
-├── utils.py          # Input validation utilities
-└── scores.txt        # High score storage
+- ├── main.py           # Entry point
+- ├── game_logic.py     # Core game functions
+- ├── scoring.py        # Score calculation system
+- ├── hints.py          # Hint system and math helpers
+- ├── utils.py          # Input validation utilities
+- └── scores.txt        # High score storage
 
 ## Requirements 📋
 
@@ -86,4 +86,4 @@ Created as a learning project to practice:
 
 *Have fun guessing! 🎉*
 
-[https://github.com/erik-manukyan/Number-Guessing-Game](https://github.com/erik-manukyan/Number-Guessing-Game)
+[Project URL](https://github.com/erik-manukyan/Number-Guessing-Game)
