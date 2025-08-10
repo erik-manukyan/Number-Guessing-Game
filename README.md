@@ -1,3 +1,5 @@
+[https://github.com/erik-manukyan/Number-Guessing-Game]https://github.com/erik-manukyan/Number-Guessing-Game
+
 # Number Guessing Game 🎯
 
 A fun and challenging number guessing game with an advanced hint system and scoring mechanics.
@@ -86,4 +88,4 @@ Created as a learning project to practice:
 
 *Have fun guessing! 🎉*
 
-[Project URL](https://github.com/erik-manukyan/Number-Guessing-Game)
+
