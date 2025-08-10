@@ -1,4 +1,4 @@
-[https://github.com/erik-manukyan/Number-Guessing-Game]https://github.com/erik-manukyan/Number-Guessing-Game
+https://github.com/erik-manukyan/Number-Guessing-Game
 
 # Number Guessing Game 🎯
 
