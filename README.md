@@ -1,5 +1,3 @@
-https://github.com/erik-manukyan/Number-Guessing-Game
-
 # Number Guessing Game 🎯
 
 A fun and challenging number guessing game with an advanced hint system and scoring mechanics.
@@ -56,12 +54,12 @@ The game offers 11 different types of hints:
 
 ## Project Structure 📁
 
-- ├── main.py           # Entry point
-- ├── game_logic.py     # Core game functions
-- ├── scoring.py        # Score calculation system
-- ├── hints.py          # Hint system and math helpers
-- ├── utils.py          # Input validation utilities
-- └── scores.txt        # High score storage
+├── main.py           # Entry point
+├── game_logic.py     # Core game functions
+├── scoring.py        # Score calculation system
+├── hints.py          # Hint system and math helpers
+├── utils.py          # Input validation utilities
+└── scores.txt        # High score storage
 
 ## Requirements 📋
 
@@ -84,8 +82,86 @@ Created as a learning project to practice:
 - File I/O operations
 - Game logic and user interaction
 
+## How to Run the Game 🎮
+
+### Prerequisites 📋
+
+- **Python 3.10 or higher** (required for match-case statements)
+- **Terminal/Command Prompt** access
+- **No additional libraries needed** - uses only Python standard library
+
+### Step-by-Step Instructions 🚀
+
+1. **Download the Game**
+
+   ```bash
+   # Clone from GitHub
+   git clone https://github.com/erik-manukyan/Number-Guessing-Game.git
+   cd Number-Guessing-Game
+   
+   # OR download ZIP and extract to a folder
+   ```
+
+2. **Check Python Version**
+
+   ```bash
+   python --version
+   # Should show Python 3.10.x or higher
+   ```
+
+3. **Navigate to Game Directory**
+
+   ```bash
+   cd /path/to/your/Number-Guessing-Game
+   ```
+
+4. **Start Playing!**
+
+   ```bash
+   python main.py
+   ```
+
+### What You'll See 👀
+
+When you start the game, you'll get a menu with options:
+
+- **1-3**: Choose difficulty level (Easy/Medium/Hard)
+- **4**: View current high scores
+- **5**: Quit the game
+
+### Game Controls 🎯
+
+- **Enter a number**: Make your guess (1-100)
+- **Type 'H'**: Get a hint (costs points!)
+- **Follow prompts**: The game guides you through everything
+
+### Troubleshooting 🔧
+
+**"Python not found" error?**
+
+- Make sure Python is installed and added to your PATH
+- Try `python3 main.py` instead of `python main.py`
+
+**"SyntaxError" or "match-case" error?**
+
+- Your Python version is too old - need Python 3.10+
+- Update Python or use a newer version
+
+**Game won't start?**
+
+- Make sure you're in the correct directory
+- Check that all files are present (main.py, game_logic.py, etc.)
+
+### Pro Tips 💡
+
+- **Easy mode**: Great for learning the hint system
+- **Hard mode**: Maximum points but only 3 attempts!
+- **Speed matters**: Guess in under 10 seconds for bonus points
+- **Hints are powerful**: But they cost points - use wisely!
+- **High scores persist**: Your best scores are saved between sessions
+
 ---
 
-*Have fun guessing! 🎉*
+## Have fun guessing! 🎉
 
-
+- **Project idea**: [Roadmap.sh]<https://roadmap.sh/projects/number-guessing-game>
